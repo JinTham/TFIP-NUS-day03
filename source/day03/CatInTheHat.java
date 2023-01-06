@@ -1,4 +1,4 @@
-
+package day03;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
